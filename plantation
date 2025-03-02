@@ -22,7 +22,7 @@ var roomstuff = {"rooms":{
 
 "slave":{"rName":"The Slave Quarters","backgroundImage":"https://soi-plantati.hyperchat.com/slavebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/slavehouse.jpg><br>Welcome to the Slave House<br></center>","roombottom":""},
 
-"gazebo":{"rName":"The Fountain","backgroundImage":"https://soi-plantati.hyperchat.com/gazebobackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/TheGazebo.jpg><br>Welcome to the Gazebo<br></center>","roombottom":""},
+"gazebo":{"rName":"The Gazebo","backgroundImage":"https://soi-plantati.hyperchat.com/gazebobackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/TheGazebo.jpg><br>Welcome to the Gazebo<br></center>","roombottom":""},
 
 "carriage":{"rName":"The Carriage Room","backgroundImage":"https://soi-plantati.hyperchat.com/carriagehousebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/carriage1.jpg><br>Welcome to the Carriage House<br></center>","roombottom":""},
 
